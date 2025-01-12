@@ -17,7 +17,7 @@ The learning content is based on videos and tutorials available on the [Chai Aur
 ## 🚀 Getting Started
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/Priyanshu-Iron/backend-learning-chai-aur-code.git
+   git clone https://github.com/Priyanshu-Iron/Backend
    ```
 
 2. Install dependencies:
