@@ -4,7 +4,7 @@
 Welcome to the repository for my backend development learning journey! This repository contains all the resources and progress I’ve made through learning backend development, primarily using the Chai Aur Code YouTube channel by [Hitesh Choudhary](https://www.linkedin.com/in/hiteshchoudhary/).
 
 ## 📚 Learning Sources
-The learning content is based on videos and tutorials available on the [Chai Aur Code YouTube Channel](https://www.youtube.com/channel/UC7cs8qgsPpPZk0F42t1wYhA). This channel covers various backend development topics such as Node.js, Express.js, Databases, REST APIs, and much more.
+The learning content is based on videos and tutorials available on the [Chai Aur Code YouTube Channel](https://www.youtube.com/@chaiaurcode). This channel covers various backend development topics such as Node.js, Express.js, Databases, REST APIs, and much more.
 
 ## 🎯 Key Topics Covered
 - **Node.js**: Introduction, File System, Express.js, etc.
